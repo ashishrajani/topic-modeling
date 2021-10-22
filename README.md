@@ -1,4 +1,4 @@
-# topic-modelling
+# topic-modeling
 
 ## Background
 Latent Dirichlet Allocation (LDA) is a generative probabilistic model that assumes each topic is a mixture over an 
